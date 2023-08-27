@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+*{
+    margin-bottom: 90px;
+}
+button{
+    background-image: url(https://i.gifer.com/g1Ib.gif);
+    color: white;
+    padding: 30px 40px;
+    font-size: 30px;
+    border-radius: 25px;
+}
+#cuadrito>button{
+    background-color: darkgrey !important;
+    background-image: none;
+}
+#cuadrito{
+    display: none;
+    
+}
