@@ -1,11 +1,14 @@
 body{
     text-align: center;
+    background-image: url(https://www.fiftysounds.com/images/graphics/vintage-background-geometric-triangles-purple-turquoise-3421.jpg);
+    background-size: 100% ;
+    background-repeat: repeat-y;
 }
 *{
     margin-bottom: 90px;
 }
 button{
-    background-image: url(https://i.gifer.com/g1Ib.gif);
+    background-image: url(programacionnnnnnnnnnnnnn.jpg);
     color: white;
     padding: 30px 40px;
     font-size: 30px;
@@ -17,5 +20,13 @@ button{
 }
 #cuadrito{
     display: none;
-    
+}
+.botesito{
+background-image: url(programacionnnn.png);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+padding: 25px;
+margin: 20px;
+display: none;
 }
